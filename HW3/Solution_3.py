@@ -5,6 +5,7 @@ Created on Thu Mar 10 19:18:09 2021
 @author: Agamdeep S. Chopra
 Title: HW_3
 Class: BIA 660, Spring 2021
+Score: 13/10
 """
 
 import requests

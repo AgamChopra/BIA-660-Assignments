@@ -1,0 +1,255 @@
+
+            reviewer                        source  \
+0       Emilly Prado                   Bitch Media   
+1     Robert Daniels                812filmreviews   
+2       Mark Kermode  Kermode & Mayo's Film Review   
+3  Mey Valdivia Rude                  Autostraddle   
+4       Linda Marric                      HeyUGuys   
+
+                                             content               date score  
+0  An unexpectedly brilliant and dynamic story ab...      March 4, 2021  None  
+1  In a country with an ever increasing Hispanic ...  September 5, 2018   3/4  
+2  I don't think there's any question that Coco i...    August 28, 2018  None  
+3  Several times I found myself sobbing without k...     April 20, 2018  None  
+4  A wonderful return to form for Pixar, who agai...   January 26, 2018   4/5  
+
+bonus-
+                 reviewer                                     source  \
+0            Emilly Prado                                Bitch Media   
+1          Robert Daniels                             812filmreviews   
+2            Mark Kermode               Kermode & Mayo's Film Review   
+3       Mey Valdivia Rude                               Autostraddle   
+4            Linda Marric                                   HeyUGuys   
+5             Ryan Gilbey                              New Statesman   
+6              Tara Brady                                Irish Times   
+7             Simran Hans                              Observer (UK)   
+8            Violet Lucca                            Sight and Sound   
+9             Kevin Maher                                 Times (UK)   
+10   Charlotte O'Sullivan                    London Evening Standard   
+11         Peter Bradshaw                                   Guardian   
+12        Chris Stuckmann                         ChrisStuckmann.com   
+13        Geoffrey Macnab                           Independent (UK)   
+14    Larushka Ivan-Zadeh                                 Metro (UK)   
+15          David Jenkins                          Little White Lies   
+16           Helen O'Hara                            Empire Magazine   
+17          Stephen Romei                             The Australian   
+18            Jake Wilson                        The Age (Australia)   
+19          Roxana Hadadi                 Chesapeake Family Magazine   
+20        Matthew Lickona                           San Diego Reader   
+21        Christopher Orr                               The Atlantic   
+22      Allison Shoemaker                       Consequence of Sound   
+23            Marc Savlov                           Austin Chronicle   
+24            Kate Taylor                             Globe and Mail   
+25  Sara Michelle Fetters                             MovieFreak.com   
+26              Ben Sachs                             Chicago Reader   
+27         Stephen Whitty                         Newark Star-Ledger   
+28           Bob Mondello                                        NPR   
+29          Britton Peele                        Dallas Morning News   
+30         Leonard Maltin                          leonardmaltin.com   
+31              Angie Han                                   Mashable   
+32    Steven D. Greydanus                 National Catholic Register   
+33           Peter Rainer                  Christian Science Monitor   
+34           Claudia Puig                                   Remezcla   
+35          Peter Travers                              Rolling Stone   
+36             Nell Minow                                  Movie Mom   
+37            Jody Mitori                    St. Louis Post-Dispatch   
+38       Bill Goodykoontz                           Arizona Republic   
+39            Adam Graham                               Detroit News   
+40        Joe Morgenstern                        Wall Street Journal   
+41        Leah Greenblatt                       Entertainment Weekly   
+42           Dwight Brown  National Newspaper Publishers Association   
+43          Amy Nicholson                                     Uproxx   
+44        Stephanie Merry                            Washington Post   
+45           Peter Howell                               Toronto Star   
+46           Justin Chang                          Los Angeles Times   
+47         Soren Andersen                              Seattle Times   
+48         Mara Reinstein                                  Us Weekly   
+49        Alan Scherstuhl                              Village Voice   
+50     James Berardinelli                                  ReelViews   
+51            Katie Walsh                       Tribune News Service   
+52       Michael Phillips                            Chicago Tribune   
+53       Alissa Wilkinson                                        Vox   
+54          Kristen Lopez                                  Culturess   
+55          Gary Thompson                      Philadelphia Inquirer   
+56      Matt Zoller Seitz                             RogerEbert.com   
+57             A.O. Scott                             New York Times   
+58                Ty Burr                               Boston Globe   
+59           Brian Truitt                                  USA Today   
+60           Benjamin Lee                                   Guardian   
+61           Rafer Guzman                                    Newsday   
+62            Randy Myers                      San Jose Mercury News   
+63      Philip De Semlyen                                   Time Out   
+64          Tomris Laffly                        Film School Rejects   
+65      Johnny Oleksinski                              New York Post   
+66         Richard Roeper                          Chicago Sun-Times   
+67         Peter Hartlaub                    San Francisco Chronicle   
+68            Brian Lowry                                    CNN.com   
+69              Sam Adams                                      Slate   
+70   Ignatiy Vishnevetsky                                    AV Club   
+71           Keith Watson                             Slant Magazine   
+72          Emily Yoshida                  New York Magazine/Vulture   
+73          David Ehrlich                                  indieWire   
+74           Tim Grierson                       Screen International   
+75           Robert Abele                                    TheWrap   
+76   Michael Rechtshaffen                         Hollywood Reporter   
+77          Peter Debruge                                    Variety   
+
+                                              content               date  \
+0   An unexpectedly brilliant and dynamic story ab...      March 4, 2021   
+1   In a country with an ever increasing Hispanic ...  September 5, 2018   
+2   I don't think there's any question that Coco i...    August 28, 2018   
+3   Several times I found myself sobbing without k...     April 20, 2018   
+4   A wonderful return to form for Pixar, who agai...   January 26, 2018   
+5   The film has a galloping rhythm, and the anima...   January 25, 2018   
+6   On paper, the mythology scans as complicated a...   January 25, 2018   
+7   Pixar's latest project is a glittering return ...   January 22, 2018   
+8   Its victorious denouement offers everyone a di...   January 22, 2018   
+9   At worst it suggests that the brains trust at ...   January 19, 2018   
+10  Funny, irreverent and eye-popping. It will als...   January 19, 2018   
+11        This is a charming and very memorable film.   January 18, 2018   
+12  Despite the fact that it's so well told and re...   January 17, 2018   
+13           ... Coco is another triumph for Pixar...   January 17, 2018   
+14  Funny and heart-tugging with some knockout tun...   January 17, 2018   
+15             Not top-tier Pixar. But decent enough.   January 16, 2018   
+16  Pixar has raised the animation bar again, with...   January 12, 2018   
+17  While the animation is Pixar perfect, I don't ...    January 5, 2018   
+18  Every plot point and thematic implication slot...  December 29, 2017   
+19  Coco continues Pixar's tradition of combining ...  December 21, 2017   
+20  Of every Pixar film that deals with family, me...  November 25, 2017   
+21  Does Coco rise to the heights of Pixar's very ...  November 25, 2017   
+22  It's delightful stuff, made no less delightful...  November 22, 2017   
+23  Forgiveness and love are but two sides of the ...  November 22, 2017   
+24  None of Coco's few flaws can fatally undermine...  November 22, 2017   
+25  Coco is worthwhile, just not as much so as I h...  November 22, 2017   
+26  This engaging Pixar animation plays magnificen...  November 22, 2017   
+27  Its backgrounds ... have a vibrancy, and its a...  November 22, 2017   
+28  The plot, arguably, comes packed with more com...  November 22, 2017   
+29  It's a whimsical, touching and heartfelt celeb...  November 22, 2017   
+30  Pixar movies always look good, butCocois in a ...  November 22, 2017   
+31  What makes Coco rare is that it recognizes tha...  November 22, 2017   
+32  Coco's flaws and limitations would sting less ...  November 22, 2017   
+33  Pixar rebounds nicely with Coco, a big, spangl...  November 22, 2017   
+34  Enchanting and dazzling, Coco is a resplendent...  November 22, 2017   
+35  Pixar's Day-of-the-Dead gem pays loving tribut...  November 22, 2017   
+36  It has the dazzling visuals, expert tone and p...  November 22, 2017   
+37  The colorful visuals are matched with lively m...  November 22, 2017   
+38     "Coco" worked on me in ways I hadn't expected.  November 22, 2017   
+39  In the end, it's all too much, yet at the same...  November 22, 2017   
+40  ... the film is exuberant and heartfelt, and t...  November 21, 2017   
+41  Coco settles into something gentler but still ...  November 21, 2017   
+42  You will be taken to unimaginable places where...  November 21, 2017   
+43  Twin touchstones from two of the most famous a...  November 21, 2017   
+44  Not only is it a wholly original story, but it...  November 21, 2017   
+45  Every step of the way in Coco is a visual and ...  November 21, 2017   
+46  The script's ghoulish touches and mordant flas...  November 21, 2017   
+47  Dazzling visuals along with intricately struct...  November 21, 2017   
+48  Once again, Pixar delivers the most delightful...  November 21, 2017   
+49  Coco gets better as it goes, growing into some...  November 21, 2017   
+50  Coco may not represent Disney/Pixar at its pin...  November 21, 2017   
+51  "Coco" uses the vibrant colors and style of th...  November 21, 2017   
+52  "Coco" may not reach the Pixar heights, but th...  November 21, 2017   
+53  ... while Coco brings a lot of sweetness and l...  November 21, 2017   
+54  This colorful tale of life, death and remembra...  November 21, 2017   
+55  In general Coco is the kind of first-rate tech...  November 21, 2017   
+56                            This film is a classic.  November 21, 2017   
+57  If "Coco" doesn't quite reach the highest leve...  November 21, 2017   
+58  "Coco" is a day-glo firecracker celebrating a ...  November 21, 2017   
+59  The joyful journey is Pixar's best effort sinc...  November 21, 2017   
+60  There's a trademark slickness that sells it an...  November 21, 2017   
+61  Coco makes sure to cross every item off its Me...  November 20, 2017   
+62  The best moments in Coco are the less splendif...  November 20, 2017   
+63  Effortlessly gliding between kid-friendly spec...  November 20, 2017   
+64  Coco belongs to Pixar's elite class with a swe...  November 20, 2017   
+65       Coco is packed with terrific original tunes.  November 20, 2017   
+66  "Coco" is full of life, especially when we're ...  November 20, 2017   
+67  What a joy to watch "Coco," filmmaking that ac...  November 20, 2017   
+68  "Coco" doesn't fully scale the heights of its ...  November 20, 2017   
+69  The movie slips into a familiar rut and the sc...  November 20, 2017   
+70  One might argue that Coco could stand to be we...  November 20, 2017   
+71  The film brings Pixar's customary emotional di...  November 17, 2017   
+72  Coco is as indebted to Ratatouille as it is to...  November 15, 2017   
+73  The naked desperation of the skeleton characte...  November 10, 2017   
+74  With a fetching soundtrack and an array of vis...   October 21, 2017   
+75  The animation juggernaut has once more shown h...   October 21, 2017   
+76  It's a safe bet that audiences the world over ...   October 21, 2017   
+77  [An] effective yet hardly exceptional addition...   October 21, 2017   
+
+    score  
+0    None  
+1     3/4  
+2    None  
+3    None  
+4     4/5  
+5    None  
+6     4/5  
+7     4/5  
+8    None  
+9     4/5  
+10    5/5  
+11    4/5  
+12   None  
+13    4/5  
+14    5/5  
+15    3/5  
+16    5/5  
+17    3/5  
+18  3.5/5  
+19  4.5/5  
+20    3/5  
+21   None  
+22   None  
+23    4/5  
+24    3/4  
+25  2.5/4  
+26   None  
+27    3/4  
+28   None  
+29   None  
+30   None  
+31   None  
+32   None  
+33   None  
+34   None  
+35  3.5/4  
+36   None  
+37  3.5/4  
+38    4/5  
+39   None  
+40   None  
+41   None  
+42   None  
+43   None  
+44    3/4  
+45  3.5/4  
+46   None  
+47    4/4  
+48   None  
+49   None  
+50    3/4  
+51    4/4  
+52    3/4  
+53  3.5/5  
+54   None  
+55    3/4  
+56    4/4  
+57   None  
+58  3.5/4  
+59  3.5/4  
+60    4/5  
+61  2.5/4  
+62  3.5/4  
+63    4/5  
+64   None  
+65    4/4  
+66  3.5/4  
+67    4/4  
+68   None  
+69   None  
+70   None  
+71    3/4  
+72   None  
+73   None  
+74   None  
+75   None  
+76   None  
+77   None  
